@@ -144,11 +144,13 @@ httpd.serve_forever()
 ## OUTPUT:
 Refer to the following image to view the output of the program.
 
-![WebOutput](WebOutput.png)
+![image](https://github.com/user-attachments/assets/e097158d-a9e7-4c47-8035-32fcdfb76381)
+
 
 Terminal
 
-![Terminal](Terminal.png)
+![image](https://github.com/user-attachments/assets/089d9a98-4a69-432f-a54b-e978a42b7c17)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
